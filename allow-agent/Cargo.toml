@@ -1,0 +1,7 @@
+[package]
+name = "allow-agent"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+socket="0.0.7"
